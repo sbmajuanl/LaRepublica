@@ -1,0 +1,157 @@
+body{
+  margin: 0;
+}
+
+.menu{
+  position: fixed;
+  background:#E00109;
+  text-align: center;
+  width: 100%;
+  height: 61px;
+}
+
+.iconos{
+  position: absolute;
+  top: 14px;
+  left: 510px;
+  color: white;
+  font-size:38px;
+}
+
+h1 {
+    background-position: 0px -82px;
+    color: #fff;
+    text-decoration: none;
+    position: absolute;
+    width: 380px;
+    height: 59px;
+    top: -15px;
+    left: 2rem;
+    font-size:35px;
+}
+h4{
+  color:white;
+  width: 71px;
+  border-radius: 50px;
+  border:2px solid white;
+  padding: 0.2rem;
+  background:#E00109;
+  padding-left: 1rem;
+  padding-right: 0.4rem;
+  position: absolute;
+  right: 124px;
+  top: -10px;
+}
+.search{
+  color: white;
+  float: right;
+  font-weight: bold;
+}
+
+.color{
+  background: #5C5C66;
+  height: auto;
+}
+.lista{
+  font-family: sans-serif;
+  background: #4D4D59;
+  width: 100%;
+  height: 8px;
+  padding: 48px 19px;
+  overflow: auto;
+  font-size: 12px;
+  max-width: 1091px;
+  margin: auto;
+  list-style: none
+}
+
+.id_nom{
+  color: white;
+  padding: 21px;
+  display: inline-block;
+  padding-top: 28px;
+}
+a{
+  text-decoration: none;
+    list-style: none;
+}
+.body_container{
+  font-family: sans-serif;
+  background: white;
+  padding: 15px;
+  overflow: auto;
+  max-width: 1091px;
+  margin: auto;
+  box-shadow: 0 10px 30px 0px #bbb;
+
+}
+.caja{
+
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 51%;
+  height: 100%;
+  padding: 5px 10px;
+  background:#333340;
+  color:#fff;
+  font-weight: bold;
+  flex-direction: column;
+  justify-content: space-around
+}
+.texto{
+  position: relative;
+  min-height: 260px;
+
+}
+span{
+  text-align: left;
+  font-size: 1.2rem
+}
+.img{
+  position: absolute;
+}
+
+.caja2{
+  position: relative;
+  left: 0;
+  top: 6px;
+  width: 29%;
+  height: 80%;
+  padding: 5px 10px;
+  background:#333340;
+  color:#fff;
+  font-weight: bold;
+  flex-direction: column;
+  justify-content: space-around
+
+}
+
+.caja2{
+  position: relative;
+  left: 0;
+  top: 6px;
+  width: 29%;
+  height: 80%;
+  padding: 5px 10px;
+  background:#333340;
+  color:#fff;
+  font-weight: bold;
+  flex-direction: column;
+  justify-content: space-around
+
+}
+
+.caja3{
+  position: absolute;
+  left: 470px;
+  top: 433px;
+  width: 23%;
+  padding: 5px 10px;
+  background:#333340;
+  color:#fff;
+  font-weight: bold;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
